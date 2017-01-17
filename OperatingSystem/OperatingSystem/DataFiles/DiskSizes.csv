@@ -1,0 +1,5 @@
+#TYPE System.Data.DataRow
+"ServerName","Path","SizeGB","FreeGB","Type"
+"KRGANDHI1-W541.northamerica.corp.microsoft.com","D:\","466","11.83","Volume"
+"KRGANDHI1-W541.northamerica.corp.microsoft.com","C:\","476","139.83","Volume"
+"KRGANDHI1-W541.northamerica.corp.microsoft.com","C:\VM\MountPoint","126.87","122.98","MountPoint"
